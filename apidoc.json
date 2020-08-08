@@ -1,0 +1,21 @@
+{
+  "name": "API Document",
+  "version": "1.0.0",
+  "description": "Description for document.",
+  "title": "ATT API Document Online",
+  "url": "http://www.corey135.com/rest-api",
+  "header": {
+    "title": "My own header title"
+  },
+  "footer": {
+    "title": "My own footer title"
+  },
+  "order": [
+    "info",
+  ],
+  "template": {
+    "forceLanguage": "zh_cn",
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
